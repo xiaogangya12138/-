@@ -18,6 +18,7 @@
       </van-swipe-item>
     </van-swipe>
   </div>
+  <div> <van-button loading type="primary" loading-type="spinner" /></div>
 </div>
  
 
