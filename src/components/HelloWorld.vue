@@ -51,10 +51,7 @@ shufflingImg:'',
   width: 100%;
   height: 100%;
 }
-.box{
-  /* height:100px; px */
 
-}
 
 .el-carousel__item h3 {
     color: #475669;
